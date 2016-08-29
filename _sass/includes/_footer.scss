@@ -1,0 +1,37 @@
+.site-footer {
+  @extend %padding-regular;
+  display: inline-block;
+  text-align: left;
+  width: 100%;
+  color: lighten($text-color, 30%);
+  font-size: 0.9em;
+  background-color: #333;
+	
+	p{
+		float: left;
+	}
+
+    ul {
+      list-style: none;
+      line-height: 1.5;
+      float: right;
+      
+    }
+    li {
+      display: inline;
+      float: left;
+      margin-right: 0.4em;
+    }
+    li i{
+    	color: white;
+    }
+    @media (max-width: 1100px) {
+      ul {
+        display: inline-block;
+        float: left;
+        padding-top: $padding-small;
+        text-align: left;
+        width: 100%;
+      }
+    }
+}
