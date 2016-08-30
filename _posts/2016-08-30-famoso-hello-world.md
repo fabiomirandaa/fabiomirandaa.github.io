@@ -7,7 +7,7 @@ Então, já que agora o objetivo é fazer essa nova fase de escritor de blog dar
 Vou explicar quem sou e o motivo de fazer esse blog.
 
 Sou Fábio Miranda, eu tenho 20 anos, e sou atualmente desenvolvedor  na [21K](http://www.lab21k.com.br){:target="blank"}. Eu trabalho com programãção vai completar dois anos em novembro,
-ainda vivo um dilema para saber se termino ou não a minha faculdade de Sistemas de Informação, afinal muitas vezes parece que estou disperdiçando tempo com isso e aprendendo pouco lá.
+ainda vivo um dilema para saber se termino ou não a minha faculdade de Sistemas de Informação, afinal muitas vezes parece que estou desperdiçando tempo com isso e aprendendo pouco lá.
 
 Eu comecei estudando programação por conta própria, primeiro com Portugol e depois fazia a transcrição dos algoritmos em portugol para Java.
 Sim, com Java eu iniciei no mundo do desenvolvimento. Então depois de já saber Java de maneira procedural, eu iniciei um curso técnico de Informatica na FAETEC, para ganhar mais conhecimento,
