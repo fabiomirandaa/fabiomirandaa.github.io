@@ -1,7 +1,7 @@
 ---
-layout: post
 title: Como você pode se tornar um programador - Parte 1
-feature-img: "img/binary-code.jpg"
+layout: post
+feature-img: img/binary-code.jpg
 ---
 
 Quando eu iniciei de fato no mundo da programação, lá por 2012, não tinha muito conteúdo que direcionasse pro caminho correto quem estava com disposição para aprender sozinho essa arte. Hoje, até há muito conteúdo na web pro pessoal buscar conhecimento sozinho, só que hoje tem tanta coisa que acaba deixando a galera bem perdida. Isso gera perguntas como:
@@ -104,6 +104,9 @@ Enfim, esse é o caminho básico para um desenvolvedor, Front-end e/ou Back-end.
 ### ***Notas***
 
 [1] : Há controvérsias. Existe um grupo de pessoas que relata que dá para aprender a lógica enquanto se aprende uma linguagem, ainda de maneira procedural. Eu não pertenço a esse grupo, pois acho que o pseudocódigo ajuda muito, inclusive depois quando você precisa resolver um problema e ainda não sabe como fazer na tecnologia sendo usada.
+
 [2] Se você ainda não sabe, há uma maneira de desenvolver aplicativos usando tecnologias que geralmente são usadas para a Web, como Javascript, HTML e CSS. Por isso, eu coloquei nativo, que é a linguagem oficial para o desenvolvimento, e é específica para a plataforma, como Swift para o desenvolvimento para iOs.
+
 [3]Algorítimo básico usado para aprender o corpo básico de um programa em qualquer linguagem. No Python, por exempo: Crie um arquivo chamado ola.py e dentro escreva print “Hello World” 
+
 [4] Basicamente na programação procedural nós temos uma sequência de ações que um programa deve executar, um após o outro no mesmo arquivo, usando a sintaxe característica de cada linguagem. Você pode pesquisar mais a respeito.
