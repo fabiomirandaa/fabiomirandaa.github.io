@@ -50,7 +50,9 @@ header {
         background-size: $feature-image-size;
         margin-bottom: 0;
         padding: ($padding-large / 2.5) $padding-large;
-
+        .title{
+            text-shadow: 3px 3px #000000;
+        }
         .meta {
             color: rgba($feature-image-text-color, 0.7);
         }
