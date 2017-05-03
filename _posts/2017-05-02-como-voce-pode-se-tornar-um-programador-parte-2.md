@@ -23,14 +23,15 @@ Para entender do desenvolvimento Android, é bom que você tenha as noções de 
 Eu trabalhei apenas um mês com o desenvolvimento Android, e por alguns meses eu continuei brincando um pouco, então não vou falar detalhadamente sobre como você vai estudar. Vou deixar aqui caminhos para que você possa encontrar materiais para estudar. 
 
 
-* Canal do Thiengo Calopsita - Talvez o maior canal em português sobre desenvolvimento android. Simplesmente sensacional, já mostrou de tudo no canal. Ele tem uma Playlist introdutória [aqui](https://www.youtube.com/playlist?list=PLBA57K2L2RILUAyMeRmw5kkt4-zzTHv78) 
+- Canal do Thiengo Calopsita - Talvez o maior canal em português sobre desenvolvimento android. Simplesmente sensacional, já mostrou de tudo no canal. Ele tem uma Playlist introdutória [aqui](https://www.youtube.com/playlist?list=PLBA57K2L2RILUAyMeRmw5kkt4-zzTHv78) 
 
-* Canal   do Paulo Vinicius Moreira Dutra -  A playlist conta com uma introdução e desenvolvimento de uma aplicação simples. Você pode conferir [aqui](https://www.youtube.com/playlist?list=PLVawTLaO8Js9tPdmgmv8cPRsjQkia_zPC)
-* Curso de Desenvolvimento Android pela Udemy, pago e você pode comprá-lo [aqui](https://www.udemy.com/curso-completo-do-desenvolvedor-android/). Vale a pena o investimento, pelos comentários e pela ementa do curso. Ensina a programação Java básica necessária e só então parte para o desenvolvimento Android. 
+- Canal   do Paulo Vinicius Moreira Dutra -  A playlist conta com uma introdução e desenvolvimento de uma aplicação simples. Você pode conferir [aqui](https://www.youtube.com/playlist?list=PLVawTLaO8Js9tPdmgmv8cPRsjQkia_zPC)
 
-* Livro Google Android -  O livro está atualmente na quinta edição, é do Ricardo Lecheta e recomendo fortemente o investimento. É indicado pelos melhores professores de Desenvolvimento Android. Você pode conferir mais no site do autor [aqui](http://www.livroandroid.com.br/site/pages/livro-android.php) ou comprá-lo na editora [aqui](https://novatec.com.br/livros/google-android-5ed/)
+- Curso de Desenvolvimento Android pela Udemy, pago e você pode comprá-lo [aqui](https://www.udemy.com/curso-completo-do-desenvolvedor-android/). Vale a pena o investimento, pelos comentários e pela ementa do curso. Ensina a programação Java básica necessária e só então parte para o desenvolvimento Android. 
 
-* Livro Android Essencial -  Com o livro anterior, você vai aprender bastante coisa, do simples ao avançado. O livro tem mais de 1000 páginas, e o autor resolveu fazer um versão resumida, que ficou em menos de 400. Você pode encontrá-lo [aqui](http://novatec.com.br/livros/android-essencial/)
+- Livro Google Android -  O livro está atualmente na quinta edição, é do Ricardo Lecheta e recomendo fortemente o investimento. É indicado pelos melhores professores de Desenvolvimento Android. Você pode conferir mais no site do autor [aqui](http://www.livroandroid.com.br/site/pages/livro-android.php) ou comprá-lo na editora [aqui](https://novatec.com.br/livros/google-android-5ed/)
+
+- Livro Android Essencial -  Com o livro anterior, você vai aprender bastante coisa, do simples ao avançado. O livro tem mais de 1000 páginas, e o autor resolveu fazer um versão resumida, que ficou em menos de 400. Você pode encontrá-lo [aqui](http://novatec.com.br/livros/android-essencial/)
 
 
 ## iOS 
@@ -46,11 +47,9 @@ O desenvolvimento de aplicativos para iOS é limitado a usuários de computadore
 Segundo passo é criar um conta de desenvolvedor apple. Você pode criar [aqui](https://developer.apple.com/programs/). Conta criada, você deve baixar o Xcode, pode baixar [aqui](https://developer.apple.com/xcode/).  No curso da PUCRS você consegue ver como se faz para configurar o ambiente de desenvolvimento corretamente, mas é básicamente só isso. Criou a conta de desenvolvedor Apple, baixou o Xcode, está pronto para desenvolver.
 
 ### Dicas de Estudo 
-* Curso de Swift oferecido pela PUCRS free no itunes. Você pode baixá-lo [aqui](https://itunes.apple.com/br/course/desenvolvimento-ios-em-swift/id937721240)
-
-*  Curso de Swift pela Udemy, é pago e você pode comprá-lo [aqui](https://www.udemy.com/aprenda-a-programar-em-swift-ios/). Sempre há promoções no site, cursos saindo a 25 reais, fique de olho.
-
-* Curso de Swifit da Unicamp. Você pode se inscrever [aqui](https://www.coursera.org/learn/aplicativo-para-iphone)
+- Curso de Swift oferecido pela PUCRS free no itunes. Você pode baixá-lo [aqui](https://itunes.apple.com/br/course/desenvolvimento-ios-em-swift/id937721240)
+-  Curso de Swift pela Udemy, é pago e você pode comprá-lo [aqui](https://www.udemy.com/aprenda-a-programar-em-swift-ios/). Sempre há promoções no site, cursos saindo a 25 reais, fique de olho.
+- Curso de Swifit da Unicamp. Você pode se inscrever [aqui](https://www.coursera.org/learn/aplicativo-para-iphone)
 
 ### **Concluindo** 
 
