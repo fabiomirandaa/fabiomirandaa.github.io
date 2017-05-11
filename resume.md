@@ -34,7 +34,7 @@ Tenho Conhecimento no ambiente JavaScript (AngularJS, automação com ferramenta
 * [Nodejs](https://nodejs.org/en/), [Angularjs](https://angularjs.org/)
 * Ferramentas Front End - [webpack](https://webpack.github.io/), [Gulp](http://gulpjs.com/), [Yeoman](http://yeoman.io/)
 * [Git](https://git-scm.com/) - [GitLab](https://about.gitlab.com/), [Github](https://github.com) e [Bitbucket](https://bitbucket.org/)
-* [Linux](http://www.linuxfoundation.org/what-is-linux) (:heart:) - Utilizo o [Elementary](https://elementary.io/pt_BR/) (:heart:)
+* [Linux](http://www.linuxfoundation.org/what-is-linux) - Utilizo o [Elementary](https://elementary.io/pt_BR/)
 * Conhecimento básico de [Python](http://wiki.python.org.br/), [MySQL](https://www.mysql.com/), [MongoDB](https://www.mongodb.org/)
 * [Scrum](https://www.scrum.org/) e [Kanban](http://kanbanblog.com/explained/) - [Jira](https://www.atlassian.com/software/jira), [Trello](https://trello.com/)
 
