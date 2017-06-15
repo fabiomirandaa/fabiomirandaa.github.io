@@ -25,14 +25,13 @@ Tenho Conhecimento no ambiente JavaScript (AngularJS, automação com ferramenta
 - [Boilerplate de Angular 1.x(ES6) com Webpack 2](https://github.com/fabiomirandaa/boilerplate-angular-es2015)
 - [Meu blog](https://github.com/fabiomirandaa/fabiomirandaa.github.io)
 - [Meus arquivos de instalação do ambiente de trabalho](https://github.com/fabiomirandaa/my-helpers)
-- [Metamorfose - meu workflow para Desenvolvimento de Software](https://github.com/woliveiras/metamorfose/)
 
 ## Habilidades
 
 * HTML/CSS e JavaScript
 * [Stylus](https://learnboost.github.io/stylus/), [Sass](http://sass-lang.com/), [Less](http://lesscss.org/), [Bootstrap](http://getbootstrap.com/)
 * [Nodejs](https://nodejs.org/en/), [Angularjs](https://angularjs.org/)
-* Ferramentas Front End - [webpack](https://webpack.github.io/), [Gulp](http://gulpjs.com/), [Yeoman](http://yeoman.io/)
+* Ferramentas Front End - [webpack](https://webpack.github.io/), [Gulp](http://gulpjs.com/)
 * [Git](https://git-scm.com/) - [GitLab](https://about.gitlab.com/), [Github](https://github.com) e [Bitbucket](https://bitbucket.org/)
 * [Linux](http://www.linuxfoundation.org/what-is-linux) - Utilizo o [Elementary](https://elementary.io/pt_BR/)
 * Conhecimento básico de [Python](http://wiki.python.org.br/), [MySQL](https://www.mysql.com/), [MongoDB](https://www.mongodb.org/)
