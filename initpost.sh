@@ -48,7 +48,7 @@ DIST_FOLDER="$POSTPATH"
 BLOG_URL="http://fabiomirandaa.github.io"
 
 # Set your assets URL
-ASSETS_URL="assets/img/"
+ASSETS_URL="/assets/img/"
 # ----------------------------------------------------------------
 
 
