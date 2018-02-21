@@ -22,13 +22,13 @@
   .site-title {
     float: left;
     font-weight: bold;
-    font-size: 1em;
+    font-size: 2em;
     line-height: 1.5;
   }
 
   .site-nav {
     ul {
-      margin: 0;
+      margin-top: 15px;
       padding: 0;
       list-style: none;
       line-height: 1.5;
@@ -38,15 +38,25 @@
     li {
       display: inline;
       float: left;
-      margin-right: 0.4em;
+      margin-right: 0.7em;
+    }
+    li a {
+     font-size: 30px; 
+    }
+    li a:hover {
+      text-decoration: underline;
     }
     @media (max-width: 1100px) {
       ul {
         display: inline-block;
         float: left;
+        margin-top: -15px;
         padding-top: $padding-small;
         text-align: left;
         width: 100%;
+      }
+      li a {
+        text-decoration: underline;
       }
     }
   }
