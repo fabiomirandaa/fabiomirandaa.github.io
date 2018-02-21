@@ -1,7 +1,7 @@
 ---
 title: Como você pode se tornar um programador - Parte 1
 layout: post
-feature-img: img/binary-code.jpg
+feature-img: assets/img/binary-code.jpg
 ---
 
 Quando eu iniciei de fato no mundo da programação, lá por 2012, não tinha muito conteúdo que direcionasse pro caminho correto quem estava com disposição para aprender sozinho essa arte. Hoje, até há muito conteúdo na web pro pessoal buscar conhecimento sozinho, só que hoje tem tanta coisa que acaba deixando a galera bem perdida. Isso gera perguntas como:

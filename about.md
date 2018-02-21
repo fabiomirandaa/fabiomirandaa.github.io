@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-feature-img: "img/about_me.jpg"
+feature-img: "assets/img/about_me.jpg"
 ---
 # Sobre mim
 
