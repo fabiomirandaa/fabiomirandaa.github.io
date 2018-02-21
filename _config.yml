@@ -43,6 +43,7 @@ theme_settings:
   google_analytics: UA-83428869-1 # Tracking ID, e.g. "UA-000000-01"
   disqus_shortname: fabiomiranda
   katex: true # Enable if using math markup
+  search: true
 
   # Localization strings
   str_follow_on: "Follow on"
@@ -51,6 +52,7 @@ theme_settings:
   str_next: "Next"
   str_prev: "Prev"
   str_continue_reading: "Continue lendo"
+  str_search_no_results: "No results found."
 
   # Colours, typography and padding
   # Open the "_sass > base" folder, and open "_variables.scss"
