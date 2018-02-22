@@ -1,6 +1,8 @@
 ---
 layout: page
+title: Resume
 permalink: /resume/
+feature-img: "assets/img/resume.jpg"
 ---
 
 # Fábio Miranda
