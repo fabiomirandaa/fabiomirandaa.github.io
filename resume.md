@@ -7,7 +7,7 @@ feature-img: "assets/img/resume.jpg"
 
 # Fábio Miranda
 
-**Blog:** [fabiomiranda.me](https://fabiomiranda.me)
+**Blog:** [fabiodemiranda.com.br](https://fabiodemiranda.com.br)
 
 **[Linkedin](https://www.linkedin.com/in/fabiomirandasilva/)**
 
@@ -19,7 +19,7 @@ Desenvolvedor de Software atualmente focado em Front-End e com prazer pelo Back-
 
 Tenho Conhecimento no ambiente JavaScript (AngularJS, Angular,  automação com ferramentas como Gulp, webpack 1 e 2, NPM, Yarn e conhecimento com NodeJS, Express entre outros), HTML (também template engines), CSS (Sass, Stylus), noções de SEO, e outras.
 
-[Mais sobre mim](https://fabiomiranda.me/about/)
+[Mais sobre mim](https://fabiodemiranda.com.br/about/)
 
 ## Alguns projetos:
 

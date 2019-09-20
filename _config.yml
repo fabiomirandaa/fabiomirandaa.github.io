@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://fabiomiranda.me" # the base hostname & protocol for your site
+url: "http://fabiodemiranda.com.br" # the base hostname & protocol for your site
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
@@ -8,11 +8,11 @@ theme_settings:
   title: Fábio Miranda
   avatar:
   gravatar: # Email MD5 hash
-  description: "Blog de tecnologia, programação e outras bacanidades." # used by search engines
+  description: "Blog de tecnologia, programação, Angular, Javascript, Typescript, RxJs e Flutter." # used by search engines
 
   # Header and footer text
   header_text: >
-     <p>Engenheiro de Software e Apaixonado por Ciências.</p>
+     <p>Engenheiro de Software, trabalho com Angular, RxJS, Typescript, NodeJs, Flutter e muito mais.</p>
   header_text_feature_image:
   footer_text: >
    Desenvolvido com <a href="http://jekyllrb.com">Jekyll</a> e ❤
@@ -49,8 +49,8 @@ theme_settings:
   str_follow_on: "Follow on"
   str_rss_follow: "Follow RSS feed"
   str_email: "Email"
-  str_next: "Next"
-  str_prev: "Prev"
+  str_next: "Próximo"
+  str_prev: "Anterior"
   str_continue_reading: "Continue lendo"
   str_search_no_results: "No results found."
 
