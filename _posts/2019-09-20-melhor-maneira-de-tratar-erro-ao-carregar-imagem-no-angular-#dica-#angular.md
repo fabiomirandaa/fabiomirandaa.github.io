@@ -7,13 +7,25 @@ Eu estive afastado da escrita de artigos por um tempo e decidi voltar. Para isso
 
 Primeiro, vamos analisar algumas formas de fazer esse tratamento. Eu já vi muitos códigos assim:
 
-![Jeito 1 de ser feito]({{ site.baseurl }}/assets/img/post-20-set-2019/jeito-1.png)
-
+{% raw %}
+```html
+<img src="{{ item.user.picture ? item.user.picture : 'assets/images/avatar.png' }}">
+```
+{% endraw %}
 O que tá acontecendo aqui? Aqui está sendo feito um ternário para verificar se existe algo em `item.user.picture` e senão houver coloca a imagem default. Funciona, mas poderia ser melhor. Mais um detalhe com esse código: A sintaxe `src={{image}}` funciona, mas é uma boa prática usar o databinding do angular pra isso, ficando `[src]='image'`. 
 
 Há também uma segunda maneira de se fazer esse tratamento de imagem, e é comum vê-la por aí:
 
-![Jeito 2 de ser feito]({{ site.baseurl }}/assets/img/post-20-set-2019/jeito-2.png)
+{% raw %}
+```html
+<div *ngIf="item.user.picture">
+  <img [src]="item.user.picture">
+</div>
+<div *ngIf="!item.user.picture">
+  <img [src]="'assets/images/avatar.png'"> 
+</div>
+```
+{% endraw %}
 
 Aqui está sendo usado duas `div` e mais dois `*ngIf` para que seja verificado no se tem a imagem no `item.user.picture` e caso tenha, carrega a primeira `div`, senão carrega a segunda. Vale lembrar que o `*ngIf` realmente não renderiza o elemento que não atender a condição, diferente do `[hidden]` que só esconde o elemento como um `display:none`. Essa maneira também funciona, mas ela não é tão boa.
 
@@ -21,8 +33,12 @@ Aqui está sendo usado duas `div` e mais dois `*ngIf` para que seja verificado n
 
 Olha só que coisa linda e elegante: 
 
-![Jeito certo de ser feito]({{ site.baseurl }}/assets/img/post-20-set-2019/jeito-certo.png)
+{% raw %}
+```html
+<img [src]="item.user.picture" onError="this.src = 'assets/images/avatar.png'">
 
+```
+{% endraw %}
 Para ser bem sincero, o que está sendo feito aqui nem tem a ver com o Angular. No maravilhoso HTML5 foi implementado alguns events em certas tags e o `onError` é justamente um desses events, que claramente como o nome diz é disparado quando há erro no carregamento de um arquivo.
 
 Por hoje é só, espero que essa dica tenha sido válida e ajude você a escrever um código mais clean. Até a próxima.
