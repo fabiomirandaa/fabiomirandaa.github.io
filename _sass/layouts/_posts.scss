@@ -78,6 +78,9 @@ header {
         font-size: 1.2em;
         margin-bottom: 1em;
         width: 100%;
+        @media (max-width:961px)  {
+            display: none;
+        }
     }
 
     a {
@@ -85,6 +88,9 @@ header {
         border: 1px solid rgba(255, 255, 255, 0);
         text-align: center;
         width: 50%;
+        @media (max-width:961px)  {
+            padding: 2em 2em;
+        }
     }
 
     a:hover {

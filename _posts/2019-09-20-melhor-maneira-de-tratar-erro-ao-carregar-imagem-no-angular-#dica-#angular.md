@@ -12,6 +12,8 @@ Primeiro, vamos analisar algumas formas de fazer esse tratamento. Eu já vi muit
 <img src="{{ item.user.picture ? item.user.picture : 'assets/images/avatar.png' }}">
 ```
 {% endraw %}
+
+
 O que tá acontecendo aqui? Aqui está sendo feito um ternário para verificar se existe algo em `item.user.picture` e senão houver coloca a imagem default. Funciona, mas poderia ser melhor. Mais um detalhe com esse código: A sintaxe `src={{image}}` funciona, mas é uma boa prática usar o databinding do angular pra isso, ficando `[src]='image'`. 
 
 Há também uma segunda maneira de se fazer esse tratamento de imagem, e é comum vê-la por aí:
