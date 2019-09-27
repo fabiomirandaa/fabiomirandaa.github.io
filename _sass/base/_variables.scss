@@ -1,7 +1,15 @@
+@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:600,400,400italic|Roboto+Mono);
+
 // Typography
 $font-family-main: 'Source Sans Pro', Helvetica, Arial, sans-serif;
 $font-family-headings: 'Source Sans Pro', Helvetica, Arial, sans-serif;
+$font-family-monospace: "Roboto Mono", "Courier New", monospace !default;
 $font-size: 1.25em;
+$base-font-size: 18px !default;
+$grey-color: #828282 !default;
+$grey-color-light: lighten($grey-color, 40%) !default;
+$grey-color-dark: darken($grey-color, 25%) !default;
+$orange-color: #f66a0a !default;
 
 // Padding
 $padding-large: 20%;
