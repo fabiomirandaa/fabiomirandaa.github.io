@@ -70,9 +70,11 @@
     border-bottom: 2px solid $search-color;
     outline: 0;
 
-    *:focus {
-        outline: none;
+    &:active {
+        outline: none!important;
+        border-bottom: 2px solid $link-color!important;
     }
+
     @media (max-width:961px)  {
       margin: 15px;
     }
@@ -82,7 +84,7 @@
             box-sizing: border-box;
             border: 0;
             outline: 0;
-            color: $search-color;
+            color: $text-color;
         }
 
         &::-moz-placeholder {
@@ -99,6 +101,6 @@
        border: none;
        font-size: 0.9em;
        background-color: $brand-color;
-       color: $search-color;
+       color: $link-color;
     }
 }
