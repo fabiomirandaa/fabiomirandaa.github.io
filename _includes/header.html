@@ -13,6 +13,19 @@
 			<a href="{{ site.baseurl }}/">{{ site.theme_settings.title }}</a>
 		</h1>
 	</div>
+
+	<!-- Search bar -->
+	{% if site.theme_settings.search %}
+	<div class="search-bar">
+		<form action="{{ site.baseurl }}/search.html" method="get">
+			<input type="text" id="search-box" name="query" placeholder="Busque um post" class="">
+			<button type="submit" class="">
+				<i class="fa fa-fw fa-search"></i>
+			</button>
+		</form>
+	</div>
+	{% endif %}
+
 	<nav class="site-nav">
 		<ul>
 			{% for page in site.pages %} {% if page.title and page.hide != true %}
@@ -22,20 +35,6 @@
 				</a>
 			</li>
 			{% endif %} {% endfor %}
-
-			<!-- Search bar -->
-			{% if site.theme_settings.search %}
-			<li>
-				<form action="{{ site.baseurl }}/search.html" method="get">
-					<input type="text" id="search-box" name="query" placeholder="Search" class="">
-					<button type="submit" class="">
-						<i class="fa fa-fw fa-search"></i>
-					</button>
-				</form>
-			</li>
-			{% endif %}
-
-
 		</ul>
 	</nav>
 </header>
