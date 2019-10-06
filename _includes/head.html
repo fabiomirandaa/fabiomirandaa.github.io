@@ -27,5 +27,25 @@
 		type="text/css">
 	{% endif %}
 
+	<meta property="og:locale" content="en_US">
+	<meta property="og:type" content="article">
+	<meta property="og:title" content="{%if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+	<meta property="og:url" content="{{ site.url }}{{ page.url }}">
+	<meta property="og:image" content="{% if page.feature-img %}{{ site.url }}/{{ page.feature-img }}{% else %}{{ site.url }}/assets/img/about_me.jpg{% endif %}"/>
+	<meta property="og:site_name" content="Fábio Miranda Blog">
+	<meta property="article:publisher" content="http://www.facebook.com/fabiomirandadev" />
+	<meta property="article:author" content="https://www.facebook.com/fabiomirandadev" />
+	<meta property="article:published_time" content="{{ page.date }}" />
+	<meta property="og:description"
+		content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
 
+	<meta name="twitter:card" content="summary" />
+	<meta name="twitter:site" content="@fabiomirandadev" />
+	<meta name="twitter:creator" content="@fabiomirandadev" />
+	<meta property="og:url" content="{{ site.url }}{{ page.url }}" />
+	<meta property="og:title" content="{%if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
+	<meta property="og:description"
+		content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}" />
+	<meta property="og:image"
+		content="{% if page.feature-img %}{{ site.url }}/{{ page.feature-img }}{% else %}{{ site.url }}/assets/img/about_me.jpg{% endif %}" />
 </head>
