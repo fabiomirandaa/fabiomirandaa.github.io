@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Extensões que todo desenvolvedor Javascript / Typescript tem que ter!"
+seo-image: assets/img/post-05-out-2019/estensoes-vscode.png
 ---
 
 Hoje falarei sobre alguns plugins que são ótimos para aumentar a produtividade de um desenvolvedor Javascript/Typescript, são alguns que eu já uso há muito tempo e alguns eu descobri recentemente e estou gostando do resultado.

@@ -2,6 +2,7 @@
 title: Como você pode se tornar um programador - parte 2
 layout: post
 feature-img: assets/img/binary-code.jpg
+seo-image: assets/img/binary-code.jpg
 ---
 
 Na artigo anterior, você pode aprender os passos para se tornar um programador Web, tanto de front-end, quanto de back-end. Para pessoas que querem se dedicar nessa categoria de desenvolvimento, o sistema operacional que elas usam, não faz tanta diferença. Talvez faça alguma diferença para os que precisam ver os layouts feitos pelos designers nas ferramentas da Adobe, o que os limitam ao Windows ou Mac [1]. 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Qual a diferença entre Module e Component no Angular?  #Curtinhas #Angular"
+seo-image: assets/img/post-27-set-2019/diferenca-component-module.png
 ---
 Vou começar a escrever além da série de dicas de Angular, uma série de curtinhas sobre o Angular. Hoje vou falar sobre a diferença entre Module e Component. Aprecio o feedback,principalmente senão tiver ficado claro a explicação =) 
 

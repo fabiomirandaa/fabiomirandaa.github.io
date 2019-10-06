@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Melhor maneira de tratar erro ao carregar imagem no Angular #Dica1 #Angular"
+seo-image: assets/img/post-20-set-2019/tratar-carregamento-image.png
 ---
 
 Eu estive afastado da escrita de artigos por um tempo e decidi voltar. Para isso, vou iniciar aqui uma série de pequenos artigos que serão algumas dicas pequenas de boas práticas com Angular. Hoje eu começo falando sobre como você pode colocar aquela imagem default, que geralmente colocamos quando não carrega a imagem que deveria(Se ainda não faz, já pode começar :p )
