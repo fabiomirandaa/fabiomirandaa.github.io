@@ -1,9 +1,17 @@
 @import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:600,400,400italic|Roboto+Mono);
 
 // Typography
-$font-family-main: 'Source Sans Pro', Helvetica, Arial, sans-serif;
-$font-family-headings: 'Source Sans Pro', Helvetica, Arial, sans-serif;
-$font-family-monospace: "Roboto Mono", "Courier New", monospace !default;
+$font-family-main: 'Source Sans Pro',
+Helvetica,
+Arial,
+sans-serif;
+$font-family-headings: 'Source Sans Pro',
+Helvetica,
+Arial,
+sans-serif;
+$font-family-monospace: "Roboto Mono",
+"Courier New",
+monospace !default;
 $font-size: 1.25em;
 $base-font-size: 18px !default;
 $grey-color: #828282 !default;
@@ -37,5 +45,11 @@ $feature-image-size: cover; // options include "cover", "contain", "auto"
 $header-desc-background-color: #C00;
 $header-desc-text-color: #FFF;
 
-//Search color
+// Search color
 $search-color: #999;
+
+// Responsive break points
+$device-xs: 768px;
+$device-sm: 1000px;
+$device-md: 1200px;
+$device-lg: 1600px;
