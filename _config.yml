@@ -38,6 +38,7 @@ theme_settings:
   twitter: "fabiomirandadev"
   wordpress:
   youtube:
+  author: "Fábio Miranda"
 
   # Scripts
   google_analytics: UA-83428869-1 # Tracking ID, e.g. "UA-000000-01"
@@ -52,7 +53,7 @@ theme_settings:
   str_next: "Próximo"
   str_prev: "Anterior"
   str_continue_reading: "Continue lendo"
-  str_search_no_results: "No results found."
+  str_search_no_results: "Nenhum resultado encontrado =( "
 
   # Colours, typography and padding
   # Open the "_sass > base" folder, and open "_variables.scss"
@@ -72,7 +73,7 @@ highlighter: rouge
 sass:
   sass_dir: _sass
   style: :compressed
-plugins: [jekyll-paginate]
+plugins: [jekyll-paginate,jekyll-seo-tag,jekyll-sitemap,jemoji]
 exclude:
   - Gemfile
   - Gemfile.lock
