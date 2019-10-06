@@ -2,8 +2,10 @@
   @extend %padding-small;
   background: $brand-color;
   border-bottom: 1px solid $border-color;
-  display: inline-block;
-  float: left;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
   width: 100%;
 
   a {
@@ -70,6 +72,9 @@
 
     *:focus {
         outline: none;
+    }
+    @media (max-width:961px)  {
+      margin: 15px;
     }
 
     input{

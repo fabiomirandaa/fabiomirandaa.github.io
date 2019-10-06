@@ -43,7 +43,7 @@ theme_settings:
   google_analytics: UA-83428869-1 # Tracking ID, e.g. "UA-000000-01"
   disqus_shortname: fabiomiranda
   katex: true # Enable if using math markup
-  search: false
+  search: true
 
   # Localization strings
   str_follow_on: "Follow on"
