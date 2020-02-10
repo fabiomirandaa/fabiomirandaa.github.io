@@ -6,7 +6,7 @@ seo-image: 'assets/img/post-06-fev-2020/novidades-angular-9.png'
 
 Depois de uma longa espera, finalmente foi lançado o Angular versão 9, com o tão aguardado Ivy!
 
-De todos os updates do Angular nesses anos, esse é o maior deles. Eles reescreveram o motor do framework, e agora as coisas serão bem melhor.
+De todos os updates do Angular nesses anos, esse é o maior deles. Eles reescreveram o motor do framework, e agora as coisas serão bem melhores.
 
 ## Como fazer pra atualizar
 
