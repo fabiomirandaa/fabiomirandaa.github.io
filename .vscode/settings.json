@@ -11,6 +11,7 @@
     "panel.border": "#cc0000",
     "sideBar.border": "#cc0000",
     "editorGroup.border": "#cc0000",
-    "tab.activeBorder": "#cc0000"
+    "tab.activeBorder": "#cc0000",
+    "activityBar.activeBackground": "#cc0000"
   }
 }
