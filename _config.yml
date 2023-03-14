@@ -12,7 +12,7 @@ theme_settings:
 
   # Header and footer text
   header_text: >
-     <p>Engenheiro de Software, trabalho com Angular, RxJS, Typescript, NodeJs, Flutter e muito mais.</p>
+     <p>Engenheiro de Software, especialista em Angular, RxJS, Typescript. Agora, também youtuber!</p>
   header_text_feature_image:
   footer_text: >
    Desenvolvido com <a href="http://jekyllrb.com">Jekyll</a> e ❤
