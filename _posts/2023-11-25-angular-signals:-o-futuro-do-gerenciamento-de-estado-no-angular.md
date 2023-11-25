@@ -214,6 +214,7 @@ export class AppComponent {
 Neste exemplo, o signal `isEven` é um signal derivado que depende do signal `count`. Sempre que o signal `count` é alterado, o signal `isEven` é atualizado de acordo.
 
 O signal `isEven` pode então ser usado para renderizar elementos condicionalmente no DOM. Por exemplo, poderíamos renderizar uma cor diferente dependendo se o signal `isEven` é verdadeiro ou falso:
+
 {% raw %}
 ```html
 <p class="even" *ngIf="isEven | async">O count é even.</p>
