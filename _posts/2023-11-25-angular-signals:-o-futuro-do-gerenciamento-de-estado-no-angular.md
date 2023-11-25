@@ -40,9 +40,11 @@ A função `computed` recebe uma função de derivação como argumento. A funç
 
 Para usar os signals, podemos simplesmente nos inscrever neles. Por exemplo, poderíamos nos inscrever no signal doubleCount e atualizar o DOM sempre que seu valor mudar:
 
+{% raw %}
 ```html
 <p>O double count é {{ doubleCount | async }}</p>
 ```
+{% endraw %}
 
 ## Por que usar Signals?
 
